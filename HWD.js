@@ -2809,7 +2809,7 @@ lib.properties = {
 	opacity: 0.00,
 	manifest: [
 		{src:"https://raw.githubusercontent.com/hyselab/mp3/master/images/HWD_atlas_.png", id:"HWD_atlas_"},
-		{src:"https://raw.githubusercontent.com/hyselab/mp3/master/EmTrongMatToi-PhuongLinh_5x9.mp3", id:"EmTrongMatToiPhuongLinh_5x9"}
+        {src:"http://ec2-54-169-147-73.ap-southeast-1.compute.amazonaws.com/20-10/EmTrongMatToi-PhuongLinh_5x9.mp3", id:"EmTrongMatToiPhuongLinh_5x9"}
 	],
 	preloads: []
 };
