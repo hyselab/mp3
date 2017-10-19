@@ -2808,8 +2808,7 @@ lib.properties = {
 	color: "#454545",
 	opacity: 0.00,
 	manifest: [
-		{src:"images/HWD_atlas_.png?1508321991911", id:"HWD_atlas_"},
-		// {src:"https://www.dropbox.com/s/8n9t86kwme0it3f/EmTrongMatToi-PhuongLinh_5x9.mp3?raw=1", id:"EmTrongMatToiPhuongLinh_5x9"}
+		{src:"https://raw.githubusercontent.com/hyselab/mp3/master/images/HWD_atlas_.png", id:"HWD_atlas_"},
 		{src:"https://raw.githubusercontent.com/hyselab/mp3/master/EmTrongMatToi-PhuongLinh_5x9.mp3", id:"EmTrongMatToiPhuongLinh_5x9"}
 	],
 	preloads: []
